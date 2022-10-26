@@ -1,7 +1,6 @@
 [
     {
       "id": "1001",
-      "category_id":"01",
       "name": "Data Structure",
       "info": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways.",
       "img": "https://msatechnosoft.in/blog/wp-content/uploads/2018/09/Data-Structure-tutorial-MSA-Technosoft.jpg",
@@ -10,7 +9,6 @@
     },
     {
       "id": "1002",
-      "category_id":"02",
       "name": "Algorithms",
       "info": "In mathematics and computer science, an algorithm (/ˈælɡərɪðəm/ (listen)) is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.[1] Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can perform automated deductions (referred to as automated reasoning) and use mathematical and logical tests to divert the code execution through various routes (referred to as automated decision-making).",
       "img": "https://i.ytimg.com/vi/kM9ASKAni_s/maxresdefault.jpg",
@@ -19,7 +17,6 @@
     },
     {
       "id": "1003",
-      "category_id":"03",
       "name": "Machine Learning",
       "info": "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so",
       "img": "https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
@@ -28,7 +25,6 @@
     },
     {
       "id": "1004",
-      "category_id":"04",
       "name": "Big Data",
       "info": "Big data refers to data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields (rows) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.[2] Big data analysis challenges include capturing data, data storage, data analysis, search, sharing, transfer, visualization, querying, updating, information privacy, and data source.",
       "img": "https://imageio.forbes.com/specials-images/imageserve/559463785/0x0.jpg?format=jpg&width=1200",
@@ -37,7 +33,6 @@
     },
     {
       "id": "1005",
-      "category_id":"05",
       "name": "Artificial Intelligence",
       "info": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals.",
       "img": "https://i0.wp.com/tdwebservices.com/wp-content/uploads/2019/04/Savvycom-AI-Lab-1.jpg?resize=1200%2C675&ssl=1",
@@ -46,7 +41,6 @@
     },
     {
       "id": "1006",
-      "category_id":"06",
       "name": "Data Science",
       "info": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.",
       "img": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
